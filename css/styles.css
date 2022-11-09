@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.row {
+    display: flex;
+    padding-left: 20px;
+}
+
+.column{
+    flex: 25%;
+    padding: 10px;
+}
+
+.column img {
+    padding: 10px;
+    width: 340px;
+    height: 470px;
+}
+
+
+h2 {
+    font-size: 3em;
+    text-align: center;
+    padding: 0.5em;
+}
+
+h3 {
+    padding: 1em;
+}
+
+p {
+    padding: 1em;
+}
+
+
+
+
+.adopciones-imagenes__fotos {
+    height: 400px;
+    width: auto;
+    display: inline;
+    padding-bottom: 2em;
+    padding: 3em;
+}
+
+.adopciones-imagenes {
+    display: flex;
+    text-align: center;
+}
+
+.info {
+    padding-top: 2em;
+}
+
+.imagenes-adopta {
+    height: 400px;
+    width: auto;
+    display: inline;
+    padding: 3em;
+}
+
+.linea1 {
+    display: flex;
+    text-align: center;
+    height: 600px;
+}
+
+.linea2 {
+    display: flex;
+    text-align: center;
+    height: 600px;
+}
+
+.ultimo-boton {
+    text-align: center;
+    padding: 3em;
+    margin: 1em;
+}
+
+.imagen-voluntariado {
+    display: flex;
+    height: auto;
+    width: max-content;
+    align-items: center;
+    
+}
+
+.imagenes-apadrina {
+    height: 300px;
+    width: auto;
+    padding-left: 1em;
+}
+
+.imagenes-donar {
+    display: flex;
+    height: auto;
+    width: 300px;
+
+}
